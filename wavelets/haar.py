@@ -9,8 +9,6 @@ from wavelets.utils import NCHW_FORMAT, NHWC_FORMAT, DEFAULT_DATA_FORMAT, COEFFS
 from vis_utils import prepare_input_image, show_lifting_results
 
 
-# Thanks to: https://getreuer.info/posts/waveletcdf97/index.html
-
 d1 = -1. # step 1 for [i]
 c1 = 1. / 2 # step 1 for [i]
 k = np.sqrt(2.)

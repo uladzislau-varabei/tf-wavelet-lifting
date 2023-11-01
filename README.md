@@ -3,8 +3,8 @@
 This repository provides implementation of discrete wavelet transform (DWT) vis lifting scheme in TensorFlow (2.x).
 Operations can run on both: CPU and GPU, filter coefficients can be made trainable parameters of model.
 The following wavelets are implemented (15 in total):
-1) CDF-9/7 (used lossy compression in JPEG 2000)
-2) CDF-5/3 (used lossless compression in JPEG 2000)
+1) CDF-9/7 (used in lossy compression in JPEG 2000)
+2) CDF-5/3 (used in lossless compression in JPEG 2000)
 3) Haar
 4) Biorthogonal Spline Wavelets: 3/3, 3/5, 3/7, 3/9, 4/8
 5) Reverse Biorthogonal Spline Wavelets: 3/3, 3/5, 3/7, 3/9, 4/8
