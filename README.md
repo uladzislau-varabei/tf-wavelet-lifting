@@ -14,7 +14,7 @@ The following wavelets are implemented (15 in total):
 All the schemes have been tested for perfect reconstruction, i.e, operations of analysis and synthesis are invertible: 
 the error varies from approximately `1e-15` to `1e-14`.
 
-This repository also has a PyTorch port: `<coming soon>`.
+This repository also has a PyTorch port: https://github.com/uladzislau-varabei/torch-wavelet-lifting.
 
 
 
