@@ -1,4 +1,4 @@
-# Wavelet lifting in TensorFlow
+# Discrete wavelet transform (DWT) via lifting in TensorFlow
 
 This repository provides implementation of discrete wavelet transform (DWT) vis lifting scheme in TensorFlow (2.x).
 Operations can run on both: CPU and GPU, filter coefficients can be made trainable parameters of model.
